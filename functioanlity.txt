@@ -1,0 +1,57 @@
+Movie Ticket Booking
+
+open website/app
+login
+
+select your city->Y?N
+
+Y
+
+search movies
+
+click on book tickets
+
+select your date
+
+show timings->N
+Y
+
+Filter->
+condition 1 	condition 2 	condition 3
+
+
+	
+
+
+		Select theater
+		Select Show Timing
+		
+	Condition 1->Full 	Condition 2-> Vacant
+				
+				Select Your Seat
+
+				Select person
+
+				Are you intrested in combo -> N
+
+				Y
+
+				Online Payment Conditions
+
+			1 	2	3	4	5
+
+							Transaction Procced ->P
+								F
+
+								
+								alert msg
+					End
+		
+
+
+
+
+
+
+
+
