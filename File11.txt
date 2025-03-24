@@ -119,4 +119,3 @@ SELECT * FROM student ORDER by salary ASC
 
 
 
-
